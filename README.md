@@ -1,6 +1,6 @@
 <h1 align="center">Hello network 🤙, I'm Teodor</h1>
 <h3 align="center">A passionate C# developer  </h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 
 🟢 🌱 I’m currently learning **JavaScript in SoftUni**
