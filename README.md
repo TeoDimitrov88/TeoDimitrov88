@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 
-🟢 🌱 I’m currently learning **JavaScript in SoftUni**
+🟢 🌱 I’m currently learning **JavaScript and ReactJS in Udemy**
 
 🟢 👨💻 All of my projects are available at [https://github.com/TeoDimitrov88](https://github.com/TeoDimitrov88)
 
